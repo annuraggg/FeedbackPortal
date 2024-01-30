@@ -1,0 +1,113 @@
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in Auth secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at module.exports [as sign] (E:\\Projects\\NodeJS Projects\\FeedbackPortal\\server\\node_modules\\jsonwebtoken\\sign.js:111:20)\n    at file:///E:/Projects/NodeJS%20Projects/FeedbackPortal/server/routes/login.js:34:29"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in Auth secretOrPrivateKey must have a value","stack":"Error: secretOrPrivateKey must have a value\n    at module.exports [as sign] (E:\\Projects\\NodeJS Projects\\FeedbackPortal\\server\\node_modules\\jsonwebtoken\\sign.js:111:20)\n    at file:///E:/Projects/NodeJS%20Projects/FeedbackPortal/server/routes/login.js:35:29"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Token not found"}
+{"level":"error","message":"Token not found"}
+{"level":"error","message":"Invalid token: "}
+{"level":"error","message":"Invalid token: "}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: syntax error at or near \"desc\""}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: syntax error at or near \"desc\""}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: syntax error at or near \"desc\""}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: syntax error at or near \"desc\""}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: INSERT has more target columns than expressions"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: value \"1706590315105\" is out of range for type integer"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: INSERT has more expressions than target columns"}
+{"level":"info","message":"Connected to database"}
+{"level":"error","message":"Error in creating ticket: null value in column \"ticket_id\" of relation \"tickets\" violates not-null constraint"}
+{"level":"error","message":"Error in creating ticket: null value in column \"category\" of relation \"tickets\" violates not-null constraint"}
+{"level":"error","message":"Error in creating ticket: null value in column \"status\" of relation \"tickets\" violates not-null constraint"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":"Connected to database"}
